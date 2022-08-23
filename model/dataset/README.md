@@ -32,7 +32,7 @@ Cite:
 
 Include label processing and split dataset to training and testing dataset.
 
-Code: [./processing.py]
+[Code](./processing.py)
 
 Command:
 ```command
